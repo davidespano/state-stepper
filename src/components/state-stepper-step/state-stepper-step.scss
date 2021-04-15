@@ -8,7 +8,7 @@
   --color-warning-contrast: #ffffff;
   --color-danger: #f04141;
   --color-danger-contrast: #ffffff;
-  --color-active: #3880ff;
+  --color-active: #10dc60;
   --color-active-contrast: #ffffff;
 
   display: inline-block;
@@ -81,7 +81,7 @@
 
       .icon-wrapper {
         .ani-wrapper {
-          animation: active 1s 300ms infinite ease-in-out;
+
           .icon {
             transform: scale(1);
             background-color: var(--color-active);
